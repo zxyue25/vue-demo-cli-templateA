@@ -1,7 +1,7 @@
 {
-  "name": " {{name}} ",
+  "name": "{{ name }}",
   "version": "1.0.0",
-  "description": " {{description}} ",
+  "description": "{{ description }}",
   "main": "index.js",
   "dependencies": {
     "commander": "^6.1.0",
@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": " {{author}} ",
+  "author": "{{ author }}",
   "license": "ISC",
   "bin": {
     "cli": "index.js"
