@@ -16,5 +16,5 @@
   "license": "ISC",
   "bin": {
     "cli": "index.js"
-  },
+  }
 }
